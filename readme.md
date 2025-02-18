@@ -6,3 +6,4 @@
 4. [190. Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 5. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 6. [136. Single Number](https://leetcode.com/problems/single-number/description/)
+7. [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
