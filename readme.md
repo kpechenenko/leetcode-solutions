@@ -12,3 +12,4 @@
 10. [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 11. [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 12. [48.Rotate Image](https://leetcode.com/problems/rotate-image/description/)
+12. [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
