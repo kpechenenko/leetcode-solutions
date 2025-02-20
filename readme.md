@@ -16,3 +16,4 @@
 12. [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
 13. [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 14. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+15. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
