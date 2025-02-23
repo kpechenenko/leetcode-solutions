@@ -26,3 +26,4 @@
 17. [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
 17. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 18. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+18. [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
