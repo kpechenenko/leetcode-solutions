@@ -32,3 +32,4 @@
 18. [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 19. [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
 20. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+20. [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
