@@ -34,3 +34,4 @@
 20. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 20. [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 20. [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+21. [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
