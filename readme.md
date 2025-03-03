@@ -38,3 +38,4 @@
 21. [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 21. [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 21. [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
+21. [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
