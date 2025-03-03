@@ -37,3 +37,4 @@
 21. [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 21. [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 21. [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+21. [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
