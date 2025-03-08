@@ -44,3 +44,4 @@
 21. [286. Missing Number](https://leetcode.com/problems/missing-number/description/)
 21. [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
 21. [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bit/description/)
+21. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
