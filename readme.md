@@ -48,3 +48,4 @@
 22. [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 23. [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 24. [198. House Robber](https://leetcode.com/problems/house-robber/description/)
+24. [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/)
