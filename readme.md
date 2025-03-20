@@ -57,3 +57,4 @@
 25. [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
 26. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 27. [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+27. [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
